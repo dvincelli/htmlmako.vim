@@ -1,0 +1,2 @@
+Adds HTML highlighting around mako tags. Depends on "mako.vim". The git project
+exists so "htmlmako.vim" can be installed with vundle.
